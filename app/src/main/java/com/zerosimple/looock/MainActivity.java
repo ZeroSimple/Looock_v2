@@ -7,7 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.my.lockscreen.R;
+import com.zerosimple.looock.R;
 
 public class MainActivity extends Activity {
 
