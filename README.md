@@ -7,4 +7,4 @@ Looock v2 is the seconed version of Looock.
 
 -Lock screen by root...........Progressing
 
--Add Assistant App API...........Progressing
+-Add Assistant App API...........Done
